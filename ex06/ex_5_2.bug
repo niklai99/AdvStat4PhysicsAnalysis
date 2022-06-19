@@ -1,0 +1,17 @@
+model {
+
+    # likelihood 1
+    for (i in 1:length(x)) {
+        x[i] ~ dpois(lambda_1);
+    }
+
+    # likelihood 2
+    for (i in 1:length(y)) {
+        y[i] ~ dpois(lambda_2);
+    }
+
+    # jeffreys prior
+    lambda_1 ~ dbeta(1/2, 1/2);
+    lambda_2 ~ dbeta(1/2, 1/2);
+
+}

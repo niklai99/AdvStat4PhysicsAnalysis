@@ -1,0 +1,1418 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-01,17,65,12,12,-42,10
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-02,38,100,24,48,5,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-03,34,111,26,49,9,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-04,42,119,31,51,17,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-05,45,120,31,61,23,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-06,47,124,31,60,24,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-07,42,122,30,57,26,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-08,42,107,33,46,23,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-09,38,100,33,45,22,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-10,43,119,38,64,28,4
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-11,46,120,40,61,30,4
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-12,44,112,37,61,31,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-13,47,116,39,64,31,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-14,43,119,37,61,32,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-15,42,105,40,44,30,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-16,38,97,42,41,26,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-17,42,112,41,60,32,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-18,47,115,41,55,34,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-19,50,111,37,62,36,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-20,52,110,33,54,36,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-21,44,115,32,52,37,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-22,46,103,34,43,34,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-23,39,93,32,36,30,10
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-24,44,109,36,56,36,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-25,49,113,39,54,37,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-26,47,103,30,53,36,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-27,54,116,35,59,37,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-28,50,122,36,58,39,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-29,49,107,38,45,33,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-30,45,98,34,42,30,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-31,49,116,39,58,38,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-01,55,120,47,62,40,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-02,58,121,48,73,42,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-03,63,127,49,76,42,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-04,54,126,42,67,40,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-05,54,110,43,51,34,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-06,47,100,41,49,30,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-07,49,117,44,66,39,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-08,60,126,49,67,40,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-09,60,121,42,73,41,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-10,65,129,48,75,40,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-11,59,129,48,72,38,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-12,57,113,52,59,31,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-13,53,103,47,53,27,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-14,74,131,56,76,30,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-15,61,124,53,68,31,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-16,59,117,46,74,34,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-17,61,122,48,70,31,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-18,55,122,51,66,33,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-19,53,104,51,54,31,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-20,47,97,45,51,29,9
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-21,50,113,48,67,38,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-22,56,115,55,63,41,5
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-23,56,114,54,69,42,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-24,60,116,54,70,42,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-25,55,120,51,66,43,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-26,55,109,55,52,38,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-27,53,106,51,49,37,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-02-28,55,117,58,69,42,6
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-01,61,123,65,65,43,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-02,60,126,69,74,44,8
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-03,68,128,69,75,47,7
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-04,64,131,68,72,47,9
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-05,64,118,68,57,44,9
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-06,64,119,68,58,48,11
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-07,67,125,76,73,49,9
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-08,76,127,88,70,53,10
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-09,74,123,84,77,55,12
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-10,77,127,92,77,56,13
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-11,66,123,86,72,55,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-12,65,115,86,59,54,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-13,70,126,86,59,63,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-14,63,115,89,72,54,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-15,70,120,94,68,56,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-16,70,115,92,73,57,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-17,70,116,87,70,57,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-18,64,118,82,67,57,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-19,62,108,79,53,54,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-20,66,120,86,60,59,16
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-21,63,112,91,71,55,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-22,69,118,96,66,56,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-23,69,115,89,73,57,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-24,71,116,85,70,57,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-25,63,119,80,66,56,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-26,58,107,78,50,49,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-27,68,127,84,61,62,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-28,63,115,86,71,55,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-29,69,122,98,69,55,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-30,71,120,91,76,57,13
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-03-31,75,125,94,75,58,13
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-01,71,134,93,75,60,13
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-02,60,114,83,52,53,16
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-03,63,128,81,58,65,17
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-04,63,120,89,73,54,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-05,69,123,92,69,55,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-06,63,113,85,74,55,16
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-07,74,127,84,76,55,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-08,66,128,86,74,53,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-09,62,117,82,60,50,15
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-10,68,133,85,63,65,17
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-11,68,125,89,76,45,16
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-12,69,128,94,72,44,17
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-13,70,123,90,76,46,16
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-14,72,126,89,78,43,16
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-15,59,129,82,65,34,20
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-16,46,102,69,41,37,20
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-17,61,116,73,44,48,17
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-18,44,89,76,38,-39,31
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-19,63,114,92,62,40,17
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-20,62,111,83,68,43,18
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-21,60,109,76,67,41,19
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-22,61,123,78,63,45,18
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-23,56,108,82,52,50,17
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-24,57,117,79,55,66,19
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-25,59,113,87,67,52,16
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-26,66,120,90,66,53,16
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-27,72,123,87,78,54,14
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-28,52,107,67,47,-26,33
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-04-29,64,131,83,75,53,15
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-01,12,69,-6,18,-46,11
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-02,33,98,9,50,7,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-03,32,109,6,49,9,10
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-04,41,119,13,54,17,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-05,43,124,17,66,22,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-06,44,124,16,63,23,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-07,41,126,16,61,26,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-08,40,112,17,51,25,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-09,34,99,20,49,23,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-10,41,121,23,68,28,5
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-11,47,122,27,68,29,5
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-12,42,117,23,68,31,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-13,43,117,25,69,30,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-14,41,123,22,67,33,5
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-15,38,110,22,50,30,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-16,32,95,29,46,24,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-17,40,113,23,65,31,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-18,46,117,25,61,32,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-19,46,116,22,70,34,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-20,46,110,17,59,33,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-21,42,119,17,58,37,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-22,42,108,15,50,34,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-23,33,90,18,40,28,9
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-24,42,111,18,60,34,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-25,47,113,23,59,34,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-26,43,107,15,59,35,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-27,48,115,18,63,35,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-28,47,125,18,62,39,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-29,44,110,18,51,34,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-30,38,96,16,44,27,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-31,46,117,23,61,37,5
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-01,54,121,31,67,38,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-02,54,125,32,80,40,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-03,58,127,35,81,39,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-04,49,129,24,72,39,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-05,49,114,22,57,33,5
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-06,39,97,24,52,27,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-07,46,118,27,70,37,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-08,58,129,33,74,38,5
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-09,55,127,27,81,39,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-10,58,130,34,81,38,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-11,54,133,31,77,38,5
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-12,52,118,31,66,32,5
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-13,44,101,28,57,25,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-14,70,131,37,80,30,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-15,59,125,35,74,31,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-16,54,122,30,81,34,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-17,54,122,32,76,31,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-18,50,126,33,71,33,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-19,48,109,26,60,31,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-20,39,94,22,54,26,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-21,46,113,27,72,36,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-22,52,114,34,69,37,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-23,49,117,31,75,38,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-24,49,113,28,74,37,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-25,47,119,21,71,40,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-26,46,110,25,57,33,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-27,42,102,24,52,29,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-02-28,47,113,28,72,38,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-01,55,120,34,69,38,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-02,51,126,42,80,39,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-03,55,121,34,78,40,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-04,52,126,30,74,41,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-05,51,115,26,60,36,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-06,47,110,32,58,32,9
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-07,54,118,34,74,41,7
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-08,63,118,43,73,43,8
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-09,57,116,39,79,44,9
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-10,58,115,42,77,44,10
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-11,49,113,38,72,45,11
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-12,48,109,38,61,39,10
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-13,46,111,39,59,37,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-14,47,104,37,72,43,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-15,54,108,41,69,44,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-16,50,106,41,74,45,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-17,50,103,36,70,44,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-18,48,109,33,67,46,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-19,46,102,30,56,39,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-20,43,105,37,60,33,14
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-21,46,101,36,69,43,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-22,53,106,41,66,43,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-23,51,107,38,75,44,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-24,53,104,34,70,43,11
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-25,48,110,31,66,45,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-26,41,101,26,52,34,11
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-27,46,113,37,62,35,11
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-28,46,103,31,70,42,11
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-29,54,110,44,69,42,11
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-30,53,112,39,77,45,11
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-03-31,58,113,41,75,45,10
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-01,55,125,41,75,48,10
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-02,43,107,28,54,38,13
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-03,42,113,31,58,38,15
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-04,48,109,35,72,42,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-05,55,112,39,70,43,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-06,47,107,37,77,43,13
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-07,55,115,33,75,43,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-08,49,118,35,73,43,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-09,46,111,29,62,37,12
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-10,45,118,35,62,41,14
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-11,50,113,36,74,37,13
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-12,54,116,43,71,36,14
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-13,53,116,42,76,38,13
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-14,53,113,39,77,35,13
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-15,44,119,31,63,27,17
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-16,30,94,17,40,25,17
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-17,37,99,24,43,26,14
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-18,26,79,13,30,-53,29
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-19,47,101,37,60,32,14
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-20,46,103,33,68,36,15
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-21,44,97,28,66,33,16
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-22,47,115,31,63,38,14
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-23,42,102,32,53,37,14
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-24,35,102,31,52,42,16
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-25,43,101,33,65,41,14
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-26,52,108,39,66,42,14
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-27,56,114,37,79,44,11
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-28,37,97,14,43,-41,32
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-04-29,48,120,29,73,43,12
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-01,,27,36,-34,-39,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-02,,45,29,,-11,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-03,,54,34,-21,3,-1
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-04,,66,38,-13,19,-3
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-05,,69,33,-8,24,-3
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-06,,74,36,-6,29,-3
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-07,,65,32,0,33,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-08,,57,33,1,19,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-09,,53,29,,11,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-10,,65,35,-13,23,-3
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-11,,70,37,-20,32,-2
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-12,,59,43,-25,30,2
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-13,,61,42,-16,32,0
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-14,,69,38,-8,39,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-15,,59,42,-13,33,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-16,,55,34,,22,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-17,,64,46,-16,32,4
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-18,,65,49,-9,40,1
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-19,,64,35,-30,41,2
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-20,,66,38,-13,46,4
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-21,,62,33,-17,47,2
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-22,,67,36,-11,42,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-23,,52,29,,28,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-24,,61,37,-23,40,5
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-25,,67,36,-19,46,2
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-26,,55,39,-20,39,5
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-27,,69,37,-13,42,2
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-28,,76,37,-3,46,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-29,,67,37,-13,36,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-30,,60,27,,23,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-31,,60,30,-13,42,4
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-01,,67,42,-12,46,4
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-02,,57,41,-8,46,3
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-03,,62,39,-10,46,4
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-04,,65,32,-11,50,4
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-05,,63,35,-13,39,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-06,,57,34,,23,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-07,,57,31,-18,39,6
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-08,,61,36,-16,42,2
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-09,,55,30,-23,41,3
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-10,,67,32,-13,43,1
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-11,,68,32,-13,41,3
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-12,,56,36,-20,28,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-13,,46,36,,13,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-14,,70,39,-13,28,3
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-15,,65,38,-16,32,6
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-16,,55,31,-21,33,4
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-17,,68,36,-5,35,5
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-18,,62,46,-5,38,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-19,,61,52,-8,29,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-20,,59,41,,22,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-21,,56,52,-10,39,5
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-22,,68,,-13,45,2
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-23,,68,65,-10,50,6
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-24,,74,,-5,55,7
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-25,,81,69,,56,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-26,,65,74,-13,42,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-27,,70,58,,31,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-02-28,,77,,-18,47,9
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-01,,82,,-9,54,11
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-02,,79,,-13,54,9
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-03,,95,,,61,9
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-04,,105,,,64,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-05,,99,,,55,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-06,,88,94,,47,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-07,,83,,-5,66,17
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-08,,104,,-4,73,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-09,,89,,3,76,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-10,,107,,,83,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-11,,101,,,79,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-12,,106,,9,72,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-13,,115,,,74,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-14,,93,,3,78,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-15,,102,,,83,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-16,,97,,14,81,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-17,,96,,,82,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-18,,94,,,82,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-19,,89,,,73,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-20,,102,,,72,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-21,,89,,,75,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-22,,96,,,80,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-23,,88,,4,80,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-24,,92,,,82,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-25,,87,,,81,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-26,,98,,,70,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-27,,103,,,68,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-28,,86,,,73,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-29,,99,,,79,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-30,,94,,2,77,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-03-31,,99,,,84,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-01,,106,,,87,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-02,,104,,6,72,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-03,,108,125,,84,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-04,,91,,,78,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-05,,89,,,84,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-06,,76,,10,77,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-07,,86,,,83,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-08,,91,,,79,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-09,,83,,,63,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-10,,97,124,,66,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-11,,73,,,58,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-12,,86,,,63,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-13,,78,,11,61,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-14,,87,,,60,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-15,,84,,,56,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-16,,87,,-5,57,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-17,,102,110,,61,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-18,,57,,-10,-7,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-19,,78,,,55,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-20,,68,,4,56,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-21,,75,,,62,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-22,,79,,,67,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-23,,71,,,68,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-24,,85,121,,74,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-25,,77,,2,73,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-26,,91,,,79,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-27,,89,,2,77,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-28,,71,,,15,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-04-29,,90,,,81,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-01,,32,-1,-31,-39,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-02,,56,5,,-12,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-03,,65,16,,1,-2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-04,,52,12,,7,-3
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-05,,49,8,,14,-2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-06,,62,9,,17,-4
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-07,,57,11,,12,-3
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-08,,44,10,-11,7,-2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-09,,33,12,,2,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-10,,60,15,,18,-5
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-11,,53,9,,18,-3
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-12,,45,3,,22,-2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-13,,56,14,,24,-3
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-14,,60,14,,19,-2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-15,,43,15,-4,11,0
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-16,,31,10,,4,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-17,,52,18,,24,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-18,,52,13,,28,-3
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-19,,46,-2,,31,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-20,,49,0,,31,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-21,,52,3,,26,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-22,,48,1,,19,3
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-23,,30,0,,7,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-24,,54,9,,30,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-25,,50,5,,31,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-26,,43,-10,,29,4
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-27,,53,-2,,32,0
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-28,,56,6,,28,0
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-29,,41,4,,21,3
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-30,,20,7,,9,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-31,,53,6,,30,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-01,,49,5,,36,0
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-02,,56,1,,35,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-03,,59,0,,36,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-04,,62,5,,28,0
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-05,,53,15,-3,19,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-06,,32,0,,12,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-07,,58,4,,31,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-08,,60,8,,31,0
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-09,,52,-5,,33,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-10,,61,1,,35,0
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-11,,49,4,,27,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-12,,53,4,,17,3
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-13,,27,9,,12,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-14,,64,9,,21,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-15,,51,3,,21,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-16,,43,-3,,27,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-17,,44,-1,,22,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-18,,46,7,,18,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-19,,36,7,,16,3
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-20,,24,7,,13,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-21,,52,11,,33,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-22,,48,13,,37,1
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-23,,47,11,,40,5
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-24,,57,20,,42,5
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-25,,63,25,,34,5
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-26,,48,22,,27,5
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-27,,26,22,,22,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-02-28,,64,25,,36,5
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-01,,65,34,,39,5
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-02,,63,24,,43,6
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-03,,68,33,,46,7
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-04,,82,30,,40,10
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-05,,67,41,,33,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-06,,58,36,,34,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-07,,78,52,,45,11
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-08,,70,63,,58,12
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-09,,73,53,,59,15
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-10,,80,74,,62,16
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-11,,75,64,,54,17
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-12,,67,62,,53,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-13,,71,60,,57,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-14,,78,,,59,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-15,,68,,,62,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-16,,66,77,,64,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-17,,74,73,,61,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-18,,78,68,,57,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-19,,64,56,,51,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-20,,65,64,,56,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-21,,75,,,63,19
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-22,,75,,,67,17
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-23,,71,62,,62,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-24,,74,66,,64,19
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-25,,90,68,,58,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-26,,76,51,,51,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-27,,85,63,,63,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-28,,89,,,63,17
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-29,,80,,,65,16
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-30,,78,63,,66,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-03-31,,84,72,,66,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-01,,97,78,,61,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-02,,73,70,,52,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-03,,71,61,,58,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-04,,89,,,59,19
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-05,,75,,,63,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-06,,70,58,,62,20
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-07,,91,65,,63,19
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-08,,92,69,,54,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-09,,76,58,,50,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-10,,78,58,,64,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-11,,92,,,47,20
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-12,,87,,,48,20
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-13,,78,66,,53,20
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-14,,83,69,,51,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-15,,96,68,,35,21
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-16,,74,64,,41,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-17,,86,85,,40,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-18,,71,,,-29,31
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-19,,80,,,49,20
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-20,,78,63,,49,21
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-21,,70,55,,45,24
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-22,,94,69,,46,20
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-23,,75,63,,55,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-24,,68,47,,61,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-25,,86,,,56,19
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-26,,89,64,,59,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-27,,83,56,,60,18
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-28,,84,64,,-5,31
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-04-29,,97,80,,56,17
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-01,,,,,-45,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-02,,,,,-22,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-03,,,,,-11,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-04,,,,,-2,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-05,,,,,2,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-06,,,,,4,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-07,,,,,1,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-08,,,,,-1,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-09,,,,,-8,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-10,,,,,5,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-11,,,,,7,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-12,,,,,8,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-13,,,,,9,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-14,,,,,9,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-15,,,,,8,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-16,,,,,-4,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-17,,,,,12,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-18,,,,,15,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-19,,,,,14,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-20,,,,,13,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-21,,,,,15,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-22,,,,,13,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-23,,,,,5,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-24,,,,,16,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-25,,,,,16,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-26,,,,,15,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-27,,,,,16,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-28,,,,,15,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-29,,,,,10,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-30,,,,,10,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-31,,,,,19,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-01,,,,,17,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-02,,,,,22,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-03,,,,,17,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-04,,,,,17,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-05,,,,,12,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-06,,,,,11,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-07,,,,,20,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-08,,,,,20,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-09,,,,,17,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-10,,,,,17,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-11,,,,,11,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-12,,,,,9,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-13,,,,,0,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-14,,,,,4,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-15,,,,,4,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-16,,,,,5,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-17,,,,,4,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-18,,,,,7,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-19,,,,,9,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-20,,,,,3,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-21,,,,,15,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-22,,,,,22,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-23,,,,,30,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-24,,,,,33,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-25,,,,,33,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-26,,,,,31,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-27,,,,,25,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-02-28,,,,,35,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-01,,,,,38,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-02,,,,,31,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-03,,,,,46,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-04,,,,,48,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-05,,,,,53,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-06,,,,,54,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-07,,,,,63,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-08,,,,,66,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-09,,,,,71,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-10,,,,,81,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-11,,,,,75,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-12,,,,,83,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-13,,,,,98,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-14,,,,,81,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-15,,,,,78,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-16,,,,,80,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-17,,,,,82,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-18,,,,,85,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-19,,,,,80,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-20,,,,,82,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-21,,,,,85,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-22,,,,,85,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-23,,,,,86,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-24,,,,,86,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-25,,,,,85,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-26,,,,,74,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-27,,,,,88,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-28,,,,,87,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-29,,,,,83,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-30,,,,,82,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-03-31,,,,,85,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-01,,,,,84,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-02,,,,,91,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-03,,,,,97,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-04,,,,,81,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-05,,,,,79,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-06,,,,,77,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-07,,,,,74,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-08,,,,,67,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-09,,,,,70,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-10,,,,,91,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-11,,,,,57,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-12,,,,,56,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-13,,,,,56,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-14,,,,,53,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-15,,,,,46,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-16,,,,,65,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-17,,,,,68,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-18,,,,,11,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-19,,,,,50,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-20,,,,,51,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-21,,,,,52,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-22,,,,,54,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-23,,,,,73,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-24,,,,,91,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-25,,,,,75,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-26,,,,,76,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-27,,,,,78,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-28,,,,,29,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-04-29,,,,,75,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-01,,,,,-29,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-02,,,,,-21,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-03,,,,,-9,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-04,,,,,3,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-05,,,,,15,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-06,,,,,11,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-07,,,,,14,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-08,,,,,2,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-09,,,,,0,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-10,,,,,10,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-11,,,,,13,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-12,,,,,23,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-13,,,,,20,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-14,,,,,22,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-15,,,,,12,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-16,,,,,11,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-17,,,,,17,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-18,,,,,17,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-19,,,,,25,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-20,,,,,23,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-21,,,,,30,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-22,,,,,16,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-23,,,,,3,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-24,,,,,22,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-25,,,,,24,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-26,,,,,26,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-27,,,,,32,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-28,,,,,27,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-29,,,,,19,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-30,,,,,6,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-31,,,,,24,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-01,,,,,28,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-02,,,,,36,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-03,,,,,31,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-04,,,,,27,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-05,,,,,17,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-06,,,,,7,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-07,,,,,26,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-08,,,,,30,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-09,,,,,22,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-10,,,,,27,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-11,,,,,28,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-12,,,,,13,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-13,,,,,0,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-14,,,,,13,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-15,,,,,13,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-16,,,,,14,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-17,,,,,8,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-18,,,,,21,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-19,,,,,17,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-20,,,,,9,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-21,,,,,30,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-22,,,,,36,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-23,,,,,43,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-24,,,,,40,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-25,,,,,40,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-26,,,,,40,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-02-28,,,,,47,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-01,,,,,48,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-02,,,,,54,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-03,,,,,64,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-04,,,,,66,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-05,,,,,48,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-07,,,,,67,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-08,,,,,83,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-09,,,,,90,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-10,,,,,96,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-11,,,,,94,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-14,,,,,94,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-15,,,,,98,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-16,,,,,99,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-17,,,,,100,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-18,,,,,97,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-21,,,,,99,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-22,,,,,104,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-23,,,,,107,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-24,,,,,106,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-25,,,,,101,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-28,,,,,97,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-29,,,,,99,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-30,,,,,97,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-03-31,,,,,98,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-01,,,,,107,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-04,,,,,93,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-05,,,,,93,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-06,,,,,99,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-07,,,,,98,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-08,,,,,96,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-11,,,,,70,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-12,,,,,54,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-13,,,,,74,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-14,,,,,69,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-15,,,,,60,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-18,,,,,2,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-19,,,,,55,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-20,,,,,68,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-21,,,,,62,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-22,,,,,62,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-25,,,,,88,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-26,,,,,92,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-27,,,,,95,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-28,,,,,41,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-04-29,,,,,90,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-01,,,,,-36,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-02,,,,,-18,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-03,,,,,-1,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-04,,,,,8,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-05,,,,,9,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-06,,,,,14,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-07,,,,,18,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-08,,,,,4,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-09,,,,,-3,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-10,,,,,9,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-11,,,,,13,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-12,,,,,15,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-13,,,,,18,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-14,,,,,20,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-15,,,,,15,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-16,,,,,11,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-17,,,,,19,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-18,,,,,25,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-19,,,,,27,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-20,,,,,26,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-21,,,,,33,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-22,,,,,19,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-23,,,,,9,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-24,,,,,24,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-25,,,,,28,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-26,,,,,23,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-27,,,,,27,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-28,,,,,26,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-29,,,,,21,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-30,,,,,10,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-31,,,,,26,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-01,,,,,30,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-02,,,,,30,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-03,,,,,34,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-04,,,,,31,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-05,,,,,20,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-06,,,,,9,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-07,,,,,24,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-08,,,,,30,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-09,,,,,28,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-10,,,,,29,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-11,,,,,30,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-12,,,,,15,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-13,,,,,7,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-14,,,,,11,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-15,,,,,13,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-16,,,,,20,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-17,,,,,14,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-18,,,,,22,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-19,,,,,22,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-20,,,,,11,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-21,,,,,26,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-22,,,,,33,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-23,,,,,37,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-24,,,,,42,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-25,,,,,43,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-26,,,,,38,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-27,,,,,25,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-02-28,,,,,48,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-01,,,,,52,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-02,,,,,47,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-03,,,,,61,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-04,,,,,66,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-05,,,,,57,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-06,,,,,48,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-07,,,,,67,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-08,,,,,81,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-09,,,,,83,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-10,,,,,98,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-11,,,,,101,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-12,,,,,93,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-13,,,,,89,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-14,,,,,89,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-15,,,,,94,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-16,,,,,92,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-17,,,,,97,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-18,,,,,105,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-19,,,,,88,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-20,,,,,81,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-21,,,,,92,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-22,,,,,98,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-23,,,,,89,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-24,,,,,97,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-25,,,,,92,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-26,,,,,82,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-27,,,,,96,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-28,,,,,83,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-29,,,,,93,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-30,,,,,89,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-03-31,,,,,97,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-01,,,,,95,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-02,,,,,82,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-03,,,,,80,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-04,,,,,92,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-05,,,,,90,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-06,,,,,83,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-07,,,,,95,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-08,,,,,89,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-09,,,,,78,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-10,,,,,85,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-11,,,,,71,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-12,,,,,68,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-13,,,,,75,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-14,,,,,66,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-15,,,,,66,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-16,,,,,72,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-17,,,,,64,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-18,,,,,5,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-19,,,,,68,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-20,,,,,68,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-21,,,,,69,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-22,,,,,75,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-23,,,,,88,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-24,,,,,85,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-25,,,,,83,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-26,,,,,90,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-27,,,,,88,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-28,,,,,37,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-04-29,,,,,87,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-01,,,,,-24,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-02,,,,,1,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-03,,,,,1,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-04,,,,,13,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-05,,,,,20,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-06,,,,,19,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-07,,,,,27,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-08,,,,,18,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-09,,,,,13,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-10,,,,,25,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-11,,,,,28,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-12,,,,,31,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-13,,,,,28,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-14,,,,,37,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-15,,,,,33,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-16,,,,,26,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-17,,,,,35,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-18,,,,,36,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-19,,,,,35,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-20,,,,,34,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-21,,,,,42,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-22,,,,,33,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-23,,,,,23,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-24,,,,,35,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-25,,,,,42,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-26,,,,,34,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-27,,,,,40,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-28,,,,,45,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-29,,,,,31,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-30,,,,,33,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-31,,,,,32,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-01,,,,,46,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-02,,,,,39,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-03,,,,,45,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-04,,,,,45,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-05,,,,,37,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-06,,,,,29,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-07,,,,,40,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-08,,,,,39,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-09,,,,,40,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-10,,,,,39,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-11,,,,,48,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-12,,,,,34,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-13,,,,,29,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-14,,,,,28,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-15,,,,,27,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-16,,,,,32,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-17,,,,,27,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-18,,,,,36,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-19,,,,,34,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-20,,,,,20,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-21,,,,,39,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-22,,,,,55,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-23,,,,,51,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-24,,,,,56,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-25,,,,,61,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-26,,,,,52,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-27,,,,,46,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-02-28,,,,,60,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-01,,,,,63,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-02,,,,,58,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-03,,,,,71,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-04,,,,,80,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-05,,,,,72,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-06,,,,,86,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-07,,,,,84,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-08,,,,,95,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-09,,,,,96,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-10,,,,,102,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-11,,,,,110,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-12,,,,,107,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-13,,,,,114,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-14,,,,,100,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-15,,,,,111,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-16,,,,,105,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-17,,,,,108,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-18,,,,,108,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-19,,,,,100,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-20,,,,,112,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-21,,,,,103,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-22,,,,,108,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-23,,,,,105,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-24,,,,,105,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-25,,,,,119,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-26,,,,,111,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-27,,,,,113,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-28,,,,,107,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-29,,,,,115,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-30,,,,,110,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-03-31,,,,,106,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-01,,,,,118,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-02,,,,,103,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-03,,,,,121,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-04,,,,,104,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-05,,,,,115,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-06,,,,,106,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-07,,,,,103,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-08,,,,,103,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-09,,,,,96,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-10,,,,,115,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-11,,,,,81,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-12,,,,,85,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-13,,,,,86,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-14,,,,,77,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-15,,,,,79,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-16,,,,,77,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-17,,,,,98,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-18,,,,,35,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-19,,,,,88,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-20,,,,,79,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-21,,,,,77,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-22,,,,,93,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-23,,,,,100,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-24,,,,,116,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-25,,,,,99,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-26,,,,,99,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-27,,,,,100,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-28,,,,,47,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-04-29,,,,,95,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-01,,27,,,-44,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-02,,61,,,-24,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-03,,89,,,-7,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-04,,84,,,-2,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-05,,81,,,3,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-06,,90,,,9,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-07,,85,,,11,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-08,,86,,,4,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-09,,55,,,-11,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-10,,84,,,9,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-11,,78,,,11,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-12,,72,,,12,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-13,,72,,,16,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-14,,78,,,13,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-15,,84,,,13,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-16,,57,,,0,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-17,,83,,,15,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-18,,70,,,20,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-19,,61,,,22,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-20,,71,,,26,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-21,,72,,,23,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-22,,77,,,19,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-23,,56,,,4,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-24,,76,,,24,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-25,,72,,,27,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-26,,62,,,27,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-27,,83,,,27,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-28,,86,,,24,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-29,,82,,,13,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-30,,57,,,8,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-31,,82,,,22,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-01,,85,,,28,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-02,,79,,,30,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-03,,85,,,30,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-04,,90,,,28,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-05,,87,,,16,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-06,,64,,,6,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-07,,77,,,25,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-08,,76,,,27,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-09,,69,,,23,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-10,,80,,,28,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-11,,90,,,18,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-12,,77,,,11,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-13,,62,,,2,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-14,,92,,,6,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-15,,79,,,6,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-16,,64,,,8,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-17,,74,,,11,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-18,,72,,,12,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-19,,71,,,17,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-20,,44,,,9,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-21,,76,,,26,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-22,,71,,,30,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-23,,66,,,32,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-24,,79,,,46,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-25,,82,,,43,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-26,,80,,,32,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-27,,51,,,23,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-02-28,,95,,,41,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-01,,96,,,41,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-02,,87,,,42,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-03,,116,,,55,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-04,,111,,,52,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-05,,118,,,48,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-06,,,,,41,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-07,,115,,,61,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-08,,115,,,70,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-09,,110,,,77,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-10,,118,,,84,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-11,,111,,,81,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-12,,97,,,76,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-13,,,,,81,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-14,,106,,,78,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-15,,119,,,86,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-16,,120,,,84,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-17,,122,,,90,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-18,,116,,,90,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-19,,105,,,86,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-20,,,,,82,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-21,,114,,,93,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-22,,118,,,95,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-23,,105,,,95,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-24,,109,,,98,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-25,,102,,,90,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-26,,106,,,67,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-27,,,,,83,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-28,,122,,,89,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-29,,119,,,89,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-30,,113,,,87,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-03-31,,115,,,91,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-01,,128,,,94,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-02,,124,,,83,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-03,,,,,90,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-04,,115,,,81,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-05,,112,,,82,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-06,,105,,,84,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-07,,119,,,80,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-08,,116,,,75,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-09,,95,,,70,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-10,,,,,81,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-11,,119,,,64,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-12,,111,,,61,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-13,,93,,,58,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-14,,106,,,58,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-15,,100,,,50,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-16,,89,,,56,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-17,,,,,61,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-18,,59,,,7,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-19,,113,,,54,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-20,,95,,,54,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-21,,106,,,58,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-22,,100,,,61,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-23,,102,,,75,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-24,,,,,87,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-25,,107,,,78,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-26,,116,,,82,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-27,,110,,,78,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-28,,84,,,24,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-04-29,,122,,,72,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-01,,28,,,-32,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-02,,57,,,-4,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-03,,70,,,20,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-04,,57,,,23,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-05,,61,,,25,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-06,,59,,,30,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-07,,59,,,34,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-08,,54,,,25,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-09,,58,,,15,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-10,,59,,,32,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-11,,58,,,35,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-12,,49,,,34,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-13,,56,,,35,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-14,,53,,,45,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-15,,51,,,32,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-16,,47,,,24,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-17,,50,,,41,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-18,,50,,,46,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-19,,58,,,41,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-20,,51,,,48,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-21,,52,,,54,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-22,,58,,,43,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-23,,58,,,24,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-24,,60,,,48,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-25,,60,,,51,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-26,,53,,,48,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-27,,60,,,54,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-28,,58,,,57,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-29,,66,,,39,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-30,,58,,,25,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-31,,66,,,52,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-01,,59,,,56,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-02,,59,,,51,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-03,,62,,,56,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-04,,66,,,63,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-05,,65,,,44,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-06,,73,,,30,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-07,,68,,,54,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-08,,60,,,51,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-09,,63,,,52,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-10,,68,,,53,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-11,,72,,,53,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-12,,71,,,37,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-13,,78,,,30,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-14,,89,,,36,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-15,,68,,,36,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-16,,72,,,37,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-17,,68,,,35,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-18,,70,,,44,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-19,,64,,,42,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-20,,67,,,30,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-21,,68,,,51,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-22,,66,,,59,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-23,,63,,,60,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-24,,78,,,65,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-25,,82,,,64,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-26,,77,,,56,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-27,,,,,44,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-02-28,,83,,,68,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-01,,66,,,64,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-02,,91,,,69,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-03,,94,,,81,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-04,,98,,,92,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-05,,91,,,78,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-06,,,,,70,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-07,,99,,,96,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-08,,100,,,98,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-09,,112,,,100,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-10,,112,,,110,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-11,,115,,,116,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-12,,110,,,99,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-13,,,,,94,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-14,,,,,107,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-15,,105,,,113,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-16,,107,,,110,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-17,,112,,,110,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-18,,110,,,116,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-19,,108,,,98,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-20,,,,,98,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-21,,99,,,102,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-22,,106,,,103,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-23,,110,,,108,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-24,,106,,,114,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-25,,106,,,121,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-26,,109,,,95,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-27,,,,,96,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-28,,,,,114,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-29,,112,,,108,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-30,,129,,,105,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-03-31,,124,,,113,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-01,,129,,,127,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-02,,113,,,98,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-03,,,,,99,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-04,,118,,,107,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-05,,105,,,110,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-06,,89,,,102,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-07,,124,,,108,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-08,,113,,,112,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-09,,119,,,91,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-10,,,,,94,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-11,,,,,75,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-12,,114,,,76,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-13,,113,,,73,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-14,,107,,,72,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-15,,115,,,73,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-16,,87,,,62,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-17,,,,,75,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-18,,108,,,29,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-19,,111,,,69,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-20,,106,,,72,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-21,,102,,,74,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-22,,113,,,78,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-23,,99,,,84,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-24,,,,,100,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-25,,117,,,96,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-26,,107,,,103,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-27,,128,,,102,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-28,,121,,,39,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-04-29,,137,,,113,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-01,24,45,,-32,-23,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-02,,78,,21,1,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-03,,98,,38,19,-1
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-04,,84,,22,26,-1
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-05,,87,,21,34,-1
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-06,,87,,8,36,1
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-07,50,96,,11,41,1
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-08,52,93,,6,30,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-09,,74,,9,18,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-10,,97,,29,42,-2
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-11,,84,,20,46,1
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-12,,85,,21,49,3
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-13,,86,,30,49,4
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-14,,92,,25,49,3
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-15,58,89,,21,44,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-16,,82,,21,25,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-17,,92,,36,51,6
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-18,,82,,17,53,5
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-19,,86,,13,57,6
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-20,,83,,2,59,8
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-21,,97,,5,60,7
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-22,66,91,,-2,49,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-23,,73,,-2,33,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-24,,78,,11,58,8
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-25,,89,,8,54,8
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-26,,77,,10,53,8
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-27,,89,,10,55,6
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-28,,105,,18,63,5
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-29,,104,,10,51,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-30,,80,,19,33,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-31,,95,,30,63,6
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-01,,87,,17,59,6
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-02,,96,,28,64,6
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-03,,99,,16,66,5
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-04,,107,,23,68,6
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-05,,102,,17,51,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-06,,86,,21,33,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-07,,97,,40,61,7
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-08,,94,,15,58,8
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-09,,90,,11,63,8
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-10,,92,,20,59,6
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-11,,114,,31,59,7
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-12,,107,,23,44,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-13,,97,,31,33,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-14,,119,,49,43,8
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-15,,110,,26,42,9
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-16,,95,,31,48,10
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-17,,110,,24,44,8
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-18,,109,,27,50,9
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-19,,99,,32,46,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-20,,92,,38,41,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-21,,106,,39,67,8
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-22,,96,,23,68,7
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-23,,98,,29,75,10
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-24,,111,,23,73,12
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-25,,129,,24,73,15
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-26,,133,,30,63,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-27,,118,,31,47,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-02-28,,117,,47,73,11
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-01,,122,,34,73,15
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-02,,126,,50,80,13
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-03,,136,,34,81,14
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-04,,157,,47,86,19
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-05,,151,,39,73,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-06,,137,,53,61,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-07,,138,,65,87,18
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-08,,149,,44,90,23
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-09,,146,,59,99,21
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-10,,148,,47,99,25
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-11,,174,,54,99,28
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-12,,170,,45,89,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-13,,177,,61,93,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-14,,161,,62,100,28
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-15,,153,,49,97,28
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-16,,150,,59,105,26
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-17,,155,,45,104,28
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-18,,159,,43,103,30
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-19,,144,,37,88,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-20,,163,,59,95,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-21,,160,,75,106,26
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-22,,158,,53,106,27
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-23,,156,,57,108,26
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-24,,148,,49,99,28
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-25,,155,,50,104,29
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-26,,146,,38,96,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-27,,165,,56,101,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-28,,160,,68,103,26
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-29,,155,,62,97,29
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-30,,150,,59,103,26
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-03-31,,160,,55,101,26
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-01,,178,,67,104,26
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-02,,169,,49,96,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-03,,170,,65,93,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-04,,158,,66,103,29
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-05,,154,,51,95,30
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-06,,148,,61,98,30
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-07,,156,,85,101,30
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-08,,176,,85,93,32
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-09,,162,,70,83,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-10,,202,,,98,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-11,,184,,,78,30
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-12,,175,,86,64,35
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-13,,162,,95,75,31
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-14,,178,,93,69,32
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-15,,195,,96,62,33
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-16,,152,,81,62,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-17,,181,,69,75,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-18,,133,,101,8,40
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-19,,163,,82,63,33
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-20,,155,,77,69,33
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-21,,150,,73,67,37
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-22,,173,,61,75,33
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-23,,150,,76,80,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-24,,187,,,94,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-25,,170,,93,89,30
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-26,,174,,74,83,32
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-27,,177,,100,83,29
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-28,,125,,60,21,45
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-04-29,,201,,97,84,28
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-01,,19,,-51,-36,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-02,,,,,6,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-03,,,,,4,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-04,,,,,22,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-05,,,,,40,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-06,,,,,46,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-07,,,,,48,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-08,,,,,40,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-09,,,,,21,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-10,,,,,47,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-11,,,,,55,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-12,,,,,51,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-13,,,,,47,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-14,,,,,53,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-15,,,,-33,48,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-16,,,,-38,27,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-17,,,,,51,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-18,,,,,62,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-19,,,,,56,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-20,,,,,58,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-21,,,,,63,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-22,,,,-40,56,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-23,,,,-56,40,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-24,,,,,58,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-25,,,,,60,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-26,,50,,,57,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-27,,,,,60,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-28,,,,,65,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-29,,,,-36,51,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-30,,,,,39,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-31,,,,,56,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-01,,,,,64,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-02,,,,,65,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-03,,,,,63,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-04,,,,,60,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-05,,,,-53,54,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-06,,,,-42,36,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-07,,,,,61,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-08,,,,,66,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-09,,,,,62,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-10,,,,,64,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-11,,,,,59,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-12,,,,-36,40,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-13,,,,-34,22,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-14,,,,,39,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-15,,,,,42,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-16,,,,,45,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-17,,,,,48,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-18,,,,,40,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-19,,,,-56,42,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-20,,,,-56,33,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-21,,,,,49,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-22,,,,,57,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-23,,,,,63,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-24,,,,,62,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-25,,,,,65,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-26,,,,-44,59,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-27,,,,-51,46,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-02-28,,,,,64,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-01,,,,,63,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-02,,,,,72,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-03,,,,,74,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-04,,,,,71,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-05,,,,-55,70,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-06,,,,-53,64,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-07,,,,,71,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-08,,,,,83,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-09,,,,,85,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-10,,,,,89,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-11,,,,,91,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-12,,,,-57,81,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-13,,,,-56,,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-14,,,,,86,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-15,,,,,92,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-16,,,,,85,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-17,,,,,84,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-18,,,,-48,86,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-19,,,,-62,76,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-20,,,,-50,62,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-21,,,,,82,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-22,,,,,83,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-23,,,,,84,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-24,,,,,86,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-25,,,,-61,82,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-26,,,,-70,64,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-27,,,,-70,,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-28,,,,,85,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-29,,,,,87,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-30,,,,,90,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-03-31,,,,,89,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-01,,,,-54,93,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-02,,,,-59,77,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-03,,,,-67,,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-04,,,,,79,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-05,,,,,82,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-06,,,,,88,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-07,,,,,84,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-08,,,,,77,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-09,,,,-48,61,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-10,,,,-49,69,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-11,,,,,64,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-12,,,,,61,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-13,,,,,63,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-14,,,,,54,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-15,,,,,42,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-16,,,,-44,44,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-17,,,,-59,37,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-18,,,,,-21,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-19,,,,,37,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-20,,,,,44,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-21,,,,,44,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-22,,,,,52,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-23,,,,-36,57,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-24,,,,-45,69,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-25,,,,,73,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-26,,,,,75,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-27,,,,,80,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-28,,,,,-1,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-04-29,,,,,72,
+CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,ChIJseA3Xmcazw8RD_F7jYwerwE,2022-01-03,,,,,-16,
+CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,ChIJseA3Xmcazw8RD_F7jYwerwE,2022-01-04,,,,,-3,
+CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,ChIJseA3Xmcazw8RD_F7jYwerwE,2022-01-05,,,,,-4,
+CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,ChIJseA3Xmcazw8RD_F7jYwerwE,2022-01-06,,,,,0,
+CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,ChIJseA3Xmcazw8RD_F7jYwerwE,2022-02-17,,,,,-2,

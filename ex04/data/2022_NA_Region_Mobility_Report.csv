@@ -1,0 +1,861 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-01,-24,-13,34,-30,-43,-2
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-02,15,33,47,-17,-10,-8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-03,20,45,22,-3,-35,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-04,16,44,16,4,-32,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-05,17,43,9,6,-27,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-06,15,43,10,12,-21,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-07,15,44,-2,6,-14,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-08,22,44,4,6,12,-5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-09,21,50,12,-5,5,-5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-10,19,43,-2,11,-3,-7
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-11,13,37,-12,15,-2,-5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-12,11,31,-11,15,3,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-13,10,29,-8,21,3,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-14,11,33,-13,12,11,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-15,14,31,-6,7,18,-1
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-16,9,28,2,-8,6,0
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-17,9,29,-7,22,11,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-18,3,24,-11,23,8,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-19,7,24,-10,15,11,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-20,15,42,-4,23,13,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-21,18,46,-7,16,20,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-22,25,46,5,10,23,-1
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-23,17,42,13,-4,13,-1
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-24,14,37,-5,13,17,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-25,19,49,-4,21,14,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-26,20,46,-9,18,15,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-27,19,45,-6,28,16,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-28,26,56,-6,26,23,-6
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-29,35,57,6,11,27,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-30,27,54,8,0,16,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-31,30,61,-2,19,20,-5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-01,27,62,-6,31,18,-5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-02,30,60,-5,26,20,-5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-03,26,56,-4,40,20,-5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-04,29,59,-6,23,25,-6
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-05,32,53,4,21,26,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-06,24,52,9,-6,14,-2
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-07,20,43,-6,18,18,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-08,13,39,-10,27,17,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-09,14,36,-8,24,17,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-10,14,37,-4,31,16,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-11,18,42,-8,27,24,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-12,24,41,7,23,25,-1
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-13,20,42,13,8,15,-2
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-14,20,40,-6,22,21,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-15,7,30,-12,29,17,-2
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-16,11,30,-1,25,20,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-17,12,33,-1,34,19,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-18,25,54,-2,23,27,-6
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-19,30,51,12,23,30,-2
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-20,23,49,14,8,18,-1
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-21,14,39,-2,21,23,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-22,11,34,-3,32,21,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-23,14,33,0,33,22,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-24,18,39,8,43,23,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-25,36,62,9,37,30,-6
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-26,50,66,24,29,35,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-27,41,67,26,14,27,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-02-28,41,73,17,40,28,-5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-01,38,74,16,54,25,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-02,36,64,12,40,26,-4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-03,37,64,27,58,28,-3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-04,40,65,22,47,34,-1
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-05,49,61,40,47,37,1
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-06,39,56,41,24,32,2
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-07,24,44,27,44,31,2
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-08,23,42,25,53,31,5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-09,25,40,30,44,33,5
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-10,25,39,42,61,35,7
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-11,27,45,29,51,42,7
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-12,34,43,42,38,43,10
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-13,27,43,50,22,35,10
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-14,19,34,37,57,39,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-15,18,36,36,61,36,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-16,23,36,35,46,38,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-17,24,40,41,73,37,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-18,38,63,37,55,37,4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-19,42,59,67,43,35,7
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-20,36,47,85,10,26,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-21,-3,11,32,8,-62,24
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-22,21,44,35,58,36,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-23,19,37,31,47,37,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-24,22,40,41,63,38,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-25,37,62,29,56,44,6
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-26,53,70,46,54,48,7
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-27,48,69,57,26,41,7
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-28,30,54,47,52,44,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-29,26,49,40,63,41,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-30,31,51,39,49,44,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-03-31,46,70,52,78,44,6
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-01,49,75,44,58,47,4
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-02,61,74,60,63,46,6
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-03,56,76,59,40,44,6
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-04,36,58,52,65,46,7
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-05,32,56,46,79,43,7
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-06,30,49,43,46,43,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-07,30,50,42,68,41,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-08,34,55,36,52,47,7
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-09,43,56,50,51,48,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-10,36,56,59,28,38,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-11,24,44,47,50,38,10
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-12,21,41,45,62,34,10
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-13,27,45,40,47,34,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-14,45,73,62,71,26,3
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-15,-13,1,42,-7,-63,25
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-16,23,42,72,13,14,12
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-17,20,29,90,4,18,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-18,-11,8,32,4,-64,23
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-19,15,39,37,53,37,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-20,27,51,41,42,39,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-21,26,50,47,55,39,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-22,33,58,37,49,44,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-23,45,61,46,43,52,10
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-24,38,62,50,20,42,10
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-25,33,57,46,48,44,10
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-26,31,56,42,59,41,9
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-27,34,55,39,47,42,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-28,39,64,46,73,40,8
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-04-29,55,91,51,57,43,3
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-01,14,6,,,-43,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-02,72,55,,,-13,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-03,62,70,,,-22,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-04,45,53,47,,-17,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-05,41,49,35,,-13,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-06,41,52,21,,-8,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-07,19,41,7,,-6,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-08,19,27,15,,7,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-09,23,28,-1,,-3,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-10,25,43,-1,,1,-9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-11,19,30,-20,,3,-7
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-12,15,26,-17,,10,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-13,21,30,-16,,9,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-14,5,26,-24,,10,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-15,7,14,-15,,10,-3
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-16,13,14,-21,,-5,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-17,13,25,-15,,13,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-18,6,22,-26,,12,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-19,8,16,-22,,15,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-20,15,30,-21,,15,-3
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-21,2,24,-22,,16,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-22,3,13,-11,,14,-1
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-23,8,11,-16,,0,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-24,13,28,-11,,16,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-25,22,39,-23,,17,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-26,20,42,-24,,16,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-27,27,43,-30,,17,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-28,17,45,-26,,20,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-29,23,38,-18,,18,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-30,29,37,-28,,6,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-31,32,57,-26,,20,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-01,30,50,-27,,20,-7
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-02,28,49,-19,,20,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-03,27,47,-30,,22,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-04,14,41,-22,,21,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-05,16,23,-15,,15,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-06,20,22,-27,,1,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-07,19,36,-18,,18,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-08,13,24,-28,,19,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-09,15,29,-20,,19,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-10,19,30,-26,,19,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-11,6,29,-21,,20,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-12,13,17,-7,,18,-3
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-13,24,24,-16,,3,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-14,24,32,-17,,21,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-15,7,19,-22,,20,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-16,11,20,8,,22,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-17,15,27,-13,,21,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-18,8,31,-13,,22,-7
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-19,8,17,-4,,18,-3
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-20,11,16,-12,,1,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-21,9,25,-12,,22,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-22,6,19,-21,,22,-5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-23,9,21,-11,,23,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-24,21,34,-11,,23,-3
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-25,26,53,-2,,24,-8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-26,38,49,-4,,23,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-27,45,53,-9,,8,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-02-28,38,68,-2,,23,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-01,31,60,-16,,25,-6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-02,29,59,-11,,26,-4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-03,36,60,-9,,28,-2
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-04,18,45,-6,,27,-1
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-05,22,31,6,,22,2
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-06,29,28,-5,,12,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-07,18,38,2,,25,1
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-08,18,33,-4,,27,4
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-09,19,35,3,,29,5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-10,28,38,9,,32,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-11,13,35,4,,29,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-12,14,20,1,,22,10
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-13,21,20,2,,14,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-14,18,29,6,,30,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-15,18,25,12,,30,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-16,20,29,15,,34,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-17,26,39,19,,32,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-18,25,48,26,,28,6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-19,33,43,,,22,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-20,51,41,,,12,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-21,13,15,,,-56,23
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-22,19,35,16,,29,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-23,18,33,22,,31,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-24,29,40,9,,31,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-25,27,57,9,,29,6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-26,39,55,15,,28,6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-27,44,50,11,,14,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-28,35,59,,,33,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-29,27,43,16,,35,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-30,31,49,22,,39,7
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-03-31,48,66,21,,37,6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-01,34,62,12,,34,5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-02,40,46,21,,25,6
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-03,43,48,10,,14,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-04,30,50,,,33,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-05,23,46,10,,32,7
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-06,23,40,21,,34,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-07,26,45,12,,35,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-08,15,41,15,,35,7
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-09,20,29,11,,26,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-10,26,34,6,,12,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-11,20,38,,,34,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-12,17,31,15,,32,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-13,22,36,24,,34,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-14,46,67,33,,26,5
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-15,1,12,49,,-59,25
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-16,36,43,,,5,11
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-17,41,30,,,7,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-18,2,8,19,,-61,24
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-19,11,25,17,,27,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-20,17,34,26,,29,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-21,22,39,12,,30,10
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-22,10,41,17,,31,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-23,19,30,12,,25,10
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-24,25,37,6,,14,
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-25,28,54,,,34,9
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-26,30,48,13,,34,8
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-27,34,54,21,,35,7
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-28,37,62,12,,34,7
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-04-29,28,70,13,,31,4
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-03,,,,,-39,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-04,,,,,-33,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-05,,,,,-25,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-06,,,,,-21,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-07,,,,,-9,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-10,,,,,-1,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-11,,,,,-5,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-12,,,,,8,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-13,,,,,4,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-14,,,,,13,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-17,,,,,18,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-18,,,,,11,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-19,,,,,16,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-20,,,,,14,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-21,,,,,17,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-24,,,,,24,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-25,,,,,18,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-26,,,,,26,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-27,,,,,19,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-28,,,,,25,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-01-31,,,,,26,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-01,,,,,18,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-02,,,,,27,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-03,,,,,17,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-04,,,,,24,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-07,,,,,19,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-08,,,,,19,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-09,,,,,24,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-10,,,,,19,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-11,,,,,27,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-14,,,,,25,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-15,,,,,18,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-16,,,,,18,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-17,,,,,17,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-18,,,,,27,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-21,,,,,22,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-22,,,,,23,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-23,,,,,30,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-24,,,,,21,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-25,,,,,22,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-02-28,,,,,23,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-01,,,,,20,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-02,,,,,27,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-03,,,,,23,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-04,,,,,31,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-07,,,,,29,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-08,,,,,27,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-09,,,,,30,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-10,,,,,29,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-11,,,,,43,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-14,,,,,35,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-15,,,,,31,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-16,,,,,37,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-17,,,,,34,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-18,,,,,35,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-21,,,,,-66,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-22,,,,,35,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-23,,,,,34,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-24,,,,,31,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-25,,,,,35,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-28,,,,,43,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-29,,,,,31,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-30,,,,,45,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-03-31,,,,,38,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-01,,,,,38,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-04,,,,,44,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-05,,,,,34,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-06,,,,,40,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-07,,,,,35,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-08,,,,,46,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-11,,,,,41,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-12,,,,,32,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-13,,,,,35,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-14,,,,,27,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-15,,,,,-72,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-18,,,,,-71,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-19,,,,,36,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-20,,,,,42,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-21,,,,,38,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-22,,,,,43,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-25,,,,,41,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-26,,,,,36,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-27,,,,,45,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-28,,,,,42,
+NA,Namibia,Hardap Region,,,NA-HA,,ChIJg3HumstlEhwR3bDMQ42_PX4,2022-04-29,,,,,45,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-01,,,,,-42,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-03,,,,,-23,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-04,,,,,-20,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-05,,,,,-17,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-06,,,,,-12,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-07,,,,,-7,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-10,,,,,-5,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-11,,,,,1,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-12,,,,,4,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-13,,,,,6,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-14,,,,,8,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-17,,,,,11,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-18,,,,,9,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-19,,,,,13,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-20,,,,,17,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-21,,,,,18,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-24,,,,,17,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-25,,,,,20,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-26,,,,,15,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-27,,,,,24,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-28,,,,,19,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-31,,,,,24,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-01,,,,,24,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-02,,,,,21,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-03,,,,,22,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-04,,,,,19,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-07,,,,,20,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-08,,,,,17,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-09,,,,,14,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-10,,,,,16,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-11,,,,,21,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-14,,,,,20,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-15,,,,,17,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-16,,,,,14,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-17,,,,,20,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-18,,,,,14,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-21,,,,,20,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-22,,,,,26,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-23,,,,,23,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-24,,,,,28,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-25,,,,,28,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-02-28,,,,,31,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-01,,,,,30,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-02,,,,,28,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-03,,,,,30,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-04,,,,,31,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-07,,,,,29,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-08,,,,,36,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-09,,,,,39,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-10,,,,,43,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-11,,,,,47,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-14,,,,,48,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-15,,,,,48,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-16,,,,,47,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-17,,,,,49,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-18,,,,,39,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-21,,,,,-47,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-22,,,,,48,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-23,,,,,49,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-24,,,,,52,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-25,,,,,49,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-28,,,,,51,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-29,,,,,55,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-30,,,,,49,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-03-31,,,,,58,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-01,,,,,48,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-04,,,,,45,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-05,,,,,50,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-06,,,,,48,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-07,,,,,51,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-08,,,,,49,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-11,,,,,45,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-12,,,,,42,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-13,,,,,42,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-14,,,,,38,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-15,,,,,-52,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-18,,,,,-51,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-19,,,,,45,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-20,,,,,47,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-21,,,,,49,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-22,,,,,46,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-25,,,,,55,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-26,,,,,51,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-27,,,,,50,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-28,,,,,52,
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-04-29,,,,,44,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-03,,,,,-30,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-04,,,,,-26,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-05,,,,,-21,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-06,,,,,2,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-07,,,,,5,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-10,,,,,6,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-11,,,,,13,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-12,,,,,23,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-13,,,,,19,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-14,,,,,31,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-17,,,,,20,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-18,,,,,20,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-19,,,,,22,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-20,,,,,31,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-24,,,,,35,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-25,,,,,36,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-26,,,,,31,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-27,,,,,36,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-01-31,,,,,27,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-01,,,,,36,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-02,,,,,36,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-03,,,,,43,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-07,,,,,34,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-08,,,,,33,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-09,,,,,32,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-10,,,,,34,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-14,,,,,35,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-15,,,,,35,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-16,,,,,38,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-17,,,,,42,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-21,,,,,44,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-22,,,,,43,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-23,,,,,45,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-24,,,,,50,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-02-28,,,,,44,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-03-01,,,,,45,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-03-02,,,,,43,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-03-07,,,,,53,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-03-08,,,,,57,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-03-09,,,,,57,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-03-14,,,,,59,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-03-16,,,,,58,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-03-21,,,,,-45,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-03-23,,,,,63,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-04-11,,,,,54,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-04-12,,,,,55,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-04-13,,,,,54,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-04-14,,,,,48,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-04-15,,,,,-51,
+NA,Namibia,Kavango Region,,,NA-OK,,ChIJ5feJ_97X5BsRT38D25eYAiE,2022-04-18,,,,,-48,
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-01,-49,-35,-21,-43,-43,1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-02,-11,12,,-31,-8,-7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-03,-3,24,-20,-23,-45,2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-04,-3,25,-21,-16,-40,2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-05,3,30,-19,-18,-36,2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-06,7,35,-23,-13,-31,2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-07,9,40,-19,-14,-23,1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-08,10,42,-5,-10,11,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-09,18,49,,-15,6,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-10,20,48,-10,-7,-7,-3
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-11,10,39,-21,-3,-4,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-12,14,37,-9,-5,-1,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-13,14,38,-15,2,1,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-14,16,45,-13,-3,11,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-15,11,42,4,-7,19,2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-16,11,35,,-22,8,2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-17,12,38,-6,1,9,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-18,3,28,-12,9,8,0
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-19,12,37,-7,-1,7,0
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-20,23,50,-11,11,10,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-21,25,57,-2,-1,20,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-22,22,55,15,-6,23,2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-23,21,53,,-11,14,1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-24,18,44,-6,-5,15,0
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-25,20,52,-3,8,14,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-26,28,57,-8,2,12,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-27,29,60,-3,9,14,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-28,36,70,1,12,22,-4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-29,37,73,17,-1,25,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-30,37,71,,-11,16,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-31,35,69,9,2,18,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-01,27,64,-5,16,17,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-02,39,72,5,7,17,-3
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-03,36,68,-5,20,17,-3
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-04,39,73,-3,5,25,-4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-05,34,67,19,18,28,0
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-06,28,64,,-12,18,0
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-07,28,56,-4,1,18,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-08,16,45,-14,11,16,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-09,23,47,-5,7,13,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-10,25,50,-4,15,14,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-11,29,56,-3,18,23,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-12,30,58,36,19,26,1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-13,28,58,,3,19,1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-14,30,59,5,8,19,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-15,9,35,-10,13,17,1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-16,21,45,-3,10,16,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-17,24,47,-5,24,17,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-18,33,64,-4,9,27,-3
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-19,32,64,21,19,30,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-20,31,61,,8,17,0
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-21,21,49,-6,9,22,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-22,15,39,-8,16,20,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-23,23,44,-3,12,16,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-24,28,52,2,20,19,-1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-25,48,79,8,19,28,-5
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-26,52,81,45,16,33,-4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-27,50,82,,4,28,-3
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-02-28,49,83,14,15,24,-5
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-01,42,77,21,37,23,-4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-02,46,75,14,15,21,-3
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-03,50,76,12,32,23,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-04,55,83,23,27,30,-2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-05,55,79,58,29,32,0
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-06,48,70,,13,28,1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-07,32,52,18,18,26,2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-08,25,44,10,26,26,3
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-09,32,49,16,10,24,4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-10,33,48,13,23,27,5
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-11,38,57,16,22,35,5
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-12,39,58,54,20,38,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-13,32,54,,5,24,9
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-14,24,42,19,22,32,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-15,19,39,15,32,30,6
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-16,30,43,14,11,28,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-17,32,47,9,46,28,6
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-18,39,65,8,26,28,4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-19,29,54,39,22,24,5
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-20,27,41,,-9,13,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-21,-11,0,-18,-17,-72,26
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-22,17,39,6,29,28,6
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-23,22,40,3,13,26,8
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-24,30,48,10,30,30,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-25,46,72,6,26,38,4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-26,54,80,42,29,42,5
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-27,55,78,,7,32,5
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-28,35,60,19,24,36,6
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-29,27,51,12,34,34,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-30,37,59,18,14,33,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-03-31,56,79,27,44,35,4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-01,60,89,31,32,41,1
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-02,65,88,78,43,38,3
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-03,66,90,,18,36,4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-04,42,66,29,33,39,6
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-05,34,57,24,51,38,5
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-06,38,56,29,15,33,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-07,41,60,16,37,31,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-08,47,70,18,30,39,4
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-09,47,70,50,27,42,5
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-10,46,70,,11,28,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-11,32,54,19,18,29,9
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-12,24,44,18,33,27,8
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-13,36,56,13,20,22,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-14,53,81,22,40,17,2
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-15,-21,-9,-20,-25,-73,24
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-16,7,34,16,-5,1,11
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-17,7,20,,-14,4,6
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-18,-19,0,-18,-17,-75,24
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-19,14,39,5,23,31,8
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-20,31,54,14,11,30,8
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-21,32,56,8,22,32,8
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-22,44,70,15,20,36,6
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-23,48,75,44,25,48,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-24,44,74,,7,33,9
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-25,41,66,18,18,36,8
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-26,33,60,16,34,34,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-27,42,65,15,20,31,7
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-28,51,73,18,39,30,6
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-04-29,65,101,25,27,36,2
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-01,,,,,-49,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-03,,72,,,-14,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-04,,63,,,-13,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-05,,82,,,-13,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-06,,68,,,-1,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-07,,48,,,13,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-08,,52,,,8,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-10,,42,,,13,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-11,,36,,,16,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-12,,42,,,18,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-13,,30,,,15,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-14,,23,,,30,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-15,,23,,,22,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-17,,28,,,23,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-18,,16,,,26,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-19,13,18,,,28,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-20,,38,,,28,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-21,,38,,,40,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-22,,41,,,27,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-24,,30,,,38,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-25,,32,,,34,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-26,,35,,,35,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-27,,34,,,33,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-28,,38,,,45,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-29,,35,,,25,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-31,,50,,,41,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-01,,45,,,38,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-02,,53,,,38,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-03,,52,,,39,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-04,,42,,,50,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-05,,37,,,28,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-07,,33,,,41,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-08,,27,,,37,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-09,18,30,,,39,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-10,,30,,,35,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-11,,29,,,53,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-12,,20,,,30,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-14,,21,,,45,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-15,,18,,,41,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-16,12,23,,,41,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-17,,20,,,40,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-18,,43,,,56,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-19,,38,,,37,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-21,,31,,,45,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-22,,23,,,45,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-23,14,28,,,49,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-24,,37,,,49,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-25,,38,,,63,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-26,,38,,,50,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-02-28,,59,,,60,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-01,,56,,,54,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-02,,54,,,54,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-03,,57,,,60,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-04,,46,,,77,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-05,,39,,,49,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-07,,40,,,69,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-08,,33,,,71,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-09,,40,,,71,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-10,,37,,,73,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-11,,28,,,89,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-12,,23,,,58,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-14,,25,,,86,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-15,,32,,,79,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-16,,40,,,81,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-17,,43,,,77,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-18,,63,,,86,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-19,,57,,,48,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-21,,28,,,-44,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-22,,40,,,78,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-23,,40,,,78,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-24,,36,,,79,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-25,,42,,,92,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-26,,46,,,56,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-28,,43,,,86,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-29,,33,,,82,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-30,,45,,,85,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-03-31,,68,,,86,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-01,,54,,,98,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-02,,51,,,58,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-04,,50,,,96,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-05,,46,,,90,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-06,,53,,,88,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-07,,48,,,86,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-08,,38,,,98,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-09,,44,,,59,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-11,,29,,,78,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-12,,29,,,72,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-13,,43,,,70,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-14,,83,,,54,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-15,-1,0,,,-50,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-16,,35,,,26,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-18,,24,,,-46,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-19,,32,,,78,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-20,,61,,,84,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-21,,60,,,81,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-22,,52,,,102,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-23,,51,,,73,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-25,,47,,,92,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-26,,40,,,92,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-27,,54,,,91,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-28,,60,,,91,
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-04-29,,88,,,99,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-03,,,,,-34,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-04,,,,,-31,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-05,,,,,-24,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-06,,,,,-16,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-07,,,,,-14,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-10,,,,,-5,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-11,,,,,-3,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-12,,,,,0,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-13,,,,,6,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-14,,,,,8,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-17,,,,,8,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-18,,,,,8,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-19,,,,,9,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-20,,,,,13,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-21,,,,,16,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-24,,,,,14,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-25,,,,,20,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-26,,,,,17,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-27,,,,,15,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-28,,,,,27,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-01-31,,,,,11,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-01,,,,,21,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-02,,,,,14,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-03,,,,,17,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-04,,,,,21,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-07,,,,,12,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-08,,,,,20,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-09,,,,,14,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-10,,,,,9,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-11,,,,,20,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-14,,,,,15,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-15,,,,,15,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-16,,,,,19,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-17,,,,,24,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-18,,,,,24,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-21,,,,,18,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-22,,,,,28,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-23,,,,,23,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-24,,,,,28,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-25,,,,,33,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-02-28,,,,,31,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-01,,,,,27,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-02,,,,,27,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-03,,,,,32,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-04,,,,,35,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-07,,,,,35,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-08,,,,,41,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-09,,,,,47,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-10,,,,,42,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-11,,,,,49,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-14,,,,,42,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-15,,,,,52,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-16,,,,,50,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-17,,,,,56,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-18,,,,,49,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-21,,,,,-48,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-22,,,,,60,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-23,,,,,51,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-24,,,,,49,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-25,,,,,66,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-28,,,,,58,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-29,,,,,63,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-30,,,,,60,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-03-31,,,,,62,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-01,,,,,64,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-04,,,,,54,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-05,,,,,66,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-06,,,,,58,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-07,,,,,56,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-08,,,,,61,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-11,,,,,48,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-12,,,,,50,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-13,,,,,49,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-14,,,,,42,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-15,,,,,-46,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-18,,,,,-52,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-19,,,,,52,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-20,,,,,49,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-21,,,,,51,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-22,,,,,63,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-25,,,,,50,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-26,,,,,52,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-27,,,,,48,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-28,,,,,47,
+NA,Namibia,Oshikoto Region,,,NA-OT,,ChIJM6s7YUpk7RsR83RcPyC3lVs,2022-04-29,,,,,44,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-01,,,,,-51,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-03,,,,,-29,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-04,,,,,-24,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-05,,,,,-20,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-06,,,,,-10,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-07,,,,,-3,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-08,,,,,10,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-10,,,,,5,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-11,,,,,10,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-12,,,,,13,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-13,,,,,14,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-14,,,,,19,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-15,,,,,9,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-17,,,,,21,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-18,,,,,18,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-19,,,,,23,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-20,,,,,27,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-21,,,,,29,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-22,,,,,12,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-24,,,,,26,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-25,,,,,25,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-26,,,,,26,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-27,,,,,26,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-28,,,,,33,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-29,,,,,18,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-31,,,,,31,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-01,,,,,26,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-02,,,,,32,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-03,,,,,35,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-04,,,,,33,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-05,,,,,21,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-07,,,,,27,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-08,,,,,25,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-09,,,,,30,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-10,,,,,27,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-11,,,,,29,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-12,,,,,7,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-14,,,,,28,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-15,,,,,21,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-16,,,,,31,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-17,,,,,28,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-18,,,,,37,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-19,,,,,20,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-21,,,,,37,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-22,,,,,27,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-23,,,,,36,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-24,,,,,37,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-25,,,,,43,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-26,,,,,25,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-02-28,,,,,36,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-01,,,,,34,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-02,,,,,41,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-03,,,,,38,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-04,,,,,46,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-07,,,,,45,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-08,,,,,42,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-09,,,,,48,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-10,,,,,54,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-11,,,,,57,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-14,,,,,58,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-15,,,,,53,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-16,,,,,55,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-17,,,,,55,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-18,,,,,55,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-21,,,,,-56,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-22,,,,,56,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-23,,,,,57,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-24,,,,,58,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-25,,,,,64,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-28,,,,,68,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-29,,,,,58,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-30,,,,,62,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-03-31,,,,,66,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-01,,,,,66,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-04,,,,,61,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-05,,,,,58,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-06,,,,,62,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-07,,,,,63,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-08,,,,,64,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-11,,,,,57,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-12,,,,,54,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-13,,,,,52,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-14,,,,,44,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-15,,,,,-56,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-16,,,,,15,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-18,,,,,-59,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-19,,,,,52,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-20,,,,,55,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-21,,,,,53,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-22,,,,,55,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-25,,,,,59,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-26,,,,,57,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-27,,,,,58,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-28,,,,,56,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-04-29,,,,,55,

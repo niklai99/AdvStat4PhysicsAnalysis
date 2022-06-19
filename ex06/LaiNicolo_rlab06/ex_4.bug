@@ -1,0 +1,14 @@
+model {
+
+    # likelihood
+    for(i in 1:length(x)){
+        x[i] ~ dbern(p);
+    }
+
+    # prior
+    p ~ dbeta(1, 10);
+
+    # posterior
+    y ~ dbin(p, n);
+
+}
